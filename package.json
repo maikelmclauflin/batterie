@@ -1,5 +1,5 @@
 {
-  "name": "@timelaps/batterie",
+  "name": "batterie",
   "version": "1.0.74",
   "description": "",
   "main": "lib/index.js",
